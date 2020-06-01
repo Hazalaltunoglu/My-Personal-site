@@ -25,7 +25,8 @@ h3 { font-family: 'Montserrat', sans-serif;
 color: #11999E;
 }
 
-p { line-height: 2; }
+p { line-height: 2;
+font-size: 1.20rem; }
 
 hr { border: dotted #EAF6F6 6px;
 border-bottom: none;
